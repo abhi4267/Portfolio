@@ -1,10 +1,10 @@
 body {
     margin: 0;
-    font-family: "Gloria Hallelujah", cursive;
+    font-family: "san-saerif", cursive;
     font-size: 16px;
     line-height: 1.8;
     /* color:white; */
-     background-color: #000435; 
+     background-color:#5D3FD3; 
     /* overflow: hidden; */
     /* background-image: url('./pape/'); */
 }
