@@ -83,7 +83,7 @@ body {
   }
   
   .card-disp{
-    display: fle;
+    display: flex;
   }
   .edu{
     max-width: 80%;
